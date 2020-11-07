@@ -63,6 +63,10 @@ header {
   margin: 0 0.8rem;
   transform: rotate(45deg);
 }
+.rat {
+  margin: 0 0.8rem;
+  transform: rotate(45deg);
+}
 
 .title p:nth-child(2),
 .title p:nth-child(5) {
